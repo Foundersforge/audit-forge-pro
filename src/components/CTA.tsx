@@ -9,7 +9,7 @@ const CTA = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto relative overflow-hidden rounded-xl bg-gradient-to-br from-fraud-primary to-fraud-secondary p-0.5">
           <div className="bg-fraud-dark rounded-xl p-8 md:p-12 relative z-10">
-            <div className="absolute top-0 left-0 w-full h-full bg-[url('data:image/svg+xml,%3Csvg width=\"100\" height=\"20\" viewBox=\"0 0 100 20\" xmlns=\"http://www.w3.org/2000/svg\"%3E%3Cpath d=\"M21.184 20c.357-.13.72-.264.888-.14 1.56-.39 3.107-.878 4.637-.196 1.53-.316 3.045-.645 4.546-.997V0L0 8v18l21.184-6z\" fill=\"%230A81AB\" fill-opacity=\".1\"%3E%3C/path%3E%3C/svg%3E')] opacity-30 z-0"></div>
+            <div className="absolute top-0 left-0 w-full h-full bg-[url('/data:image/svg+xml,%3Csvg%20width%3D%22100%22%20height%3D%2220%22%20viewBox%3D%220%200%20100%2020%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M21.184%2020c.357-.13.72-.264.888-.14%201.56-.39%203.107-.878%204.637-.196%201.53-.316%203.045-.645%204.546-.997V0L0%208v18l21.184-6z%22%20fill%3D%22%230A81AB%22%20fill-opacity%3D%22.1%22%2F%3E%3C%2Fsvg%3E')] opacity-30 z-0"></div>
             
             <div className="text-center relative z-10">
               <div className="inline-flex items-center justify-center p-3 rounded-full bg-fraud-primary/20 mb-6">
